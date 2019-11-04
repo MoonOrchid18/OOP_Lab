@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassConsole_lab5", "SimpleClassConsole_lab5\SimpleClassConsole_lab5.csproj", "{CBE00F19-99C1-4A71-BA3C-B104938D95BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassLibrary1", "SimpleClassLibrary1\SimpleClassLibrary1.csproj", "{611CF296-ED15-46A1-A8A1-682E67FF8EDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CBE00F19-99C1-4A71-BA3C-B104938D95BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBE00F19-99C1-4A71-BA3C-B104938D95BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBE00F19-99C1-4A71-BA3C-B104938D95BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611CF296-ED15-46A1-A8A1-682E67FF8EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611CF296-ED15-46A1-A8A1-682E67FF8EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611CF296-ED15-46A1-A8A1-682E67FF8EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611CF296-ED15-46A1-A8A1-682E67FF8EDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
